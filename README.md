@@ -1,0 +1,2 @@
+# Disease-predictor
+predicts diseases
